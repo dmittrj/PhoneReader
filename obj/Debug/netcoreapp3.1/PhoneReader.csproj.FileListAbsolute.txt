@@ -1,0 +1,14 @@
+C:\Users\Dmitry\source\repos\PhoneReader\bin\Debug\netcoreapp3.1\PhoneReader.exe
+C:\Users\Dmitry\source\repos\PhoneReader\bin\Debug\netcoreapp3.1\PhoneReader.deps.json
+C:\Users\Dmitry\source\repos\PhoneReader\bin\Debug\netcoreapp3.1\PhoneReader.runtimeconfig.json
+C:\Users\Dmitry\source\repos\PhoneReader\bin\Debug\netcoreapp3.1\PhoneReader.runtimeconfig.dev.json
+C:\Users\Dmitry\source\repos\PhoneReader\bin\Debug\netcoreapp3.1\PhoneReader.dll
+C:\Users\Dmitry\source\repos\PhoneReader\bin\Debug\netcoreapp3.1\PhoneReader.pdb
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.csproj.AssemblyReference.cache
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.dll
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.pdb
+C:\Users\Dmitry\source\repos\PhoneReader\obj\Debug\netcoreapp3.1\PhoneReader.genruntimeconfig.cache
