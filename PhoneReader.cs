@@ -62,6 +62,11 @@ namespace Practice_4._3
             foreach (char c in ourNumber)
             {
                 string digit = c.ToString();
+                if (digit == "+")
+                {
+                    pos--;
+                    Console.Write("плюс ");
+                }
                 if ((pos == 200) && (digit == "0"))
                 {
                     Console.Write("ноль ");
